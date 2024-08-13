@@ -1,0 +1,189 @@
+*{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+.myname{
+    height: 100px;
+    /* background-color: rgb(230, 225, 225); */
+    color: black;
+    display: flex;
+    align-items: center;
+}
+
+.myname h2{
+    margin-left: 200px;
+}
+
+.Social{
+    margin-left: 900px;
+    display: block;
+}
+
+.Social h3{
+    margin-left: 30px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.myname a{
+    font-size: 1.8rem;
+    margin-left: 40px;
+}
+
+.intro{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(230, 225, 225) ;
+    display: inline-block;
+    justify-content: center;
+}
+
+.introhead{
+    margin-top: 80px;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.intropara{
+    margin-top: 20px;
+    display:block;
+    text-align:justify;
+    font-size: 2rem;
+    margin-left: 7em;
+    margin-right: 7em;
+}
+
+.myedu{
+    height: 750px;
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+}
+
+.myedu img{
+    height: 725px;
+    width: 550px;
+    margin-left: 150px;
+}
+
+.edudetails{
+    display: inline-block;
+    margin-left: 100px;
+    align-self: center;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.edudetails strong{
+    font-size: 1.5rem;
+}
+
+.edudetails p{
+    font-size: 1.5rem;
+}
+
+.mycertifications{
+    height: 750px;
+    width: 100%;
+    background-color: rgb(230, 225, 225) ;
+    margin-top: 100px;
+    display: flex;
+}
+
+.mycertifications img{
+    height: 350px;
+    width: 600px;
+    margin-left: 150px;
+    align-self: center;
+}
+
+.certdetails{
+    display: inline-block;
+    margin-left: 80px;
+    align-self: center;
+    text-align: left;
+    font-size: 2rem;
+}
+
+.certdetails strong{
+    font-size: 1.5rem;
+}
+
+.certdetails p{
+    font-size: 1.5rem;
+}
+
+.myskills{
+    height: 750px;
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+}
+
+.myskills img{
+    height: 400px;
+    width: 400px;
+    margin-left: 200px;
+    align-self: center;
+    display: flex;
+    border-radius: 20rem;
+}
+
+.skilldetails{
+    display: inline-block;
+    margin-left: 150px;
+    align-self: center;
+    text-align: left;
+    font-size: 2rem;
+}
+
+.myprojects{
+    height: 750px;
+    width: 100%;
+    background-color: rgb(230, 225, 225);
+    margin-top: 100px;
+    display: flex;
+}
+
+.projectdetails{
+    display: inline-block;
+    margin-left: 110px;
+    align-self: center;
+    text-align:left;
+    font-size: 2rem;
+}
+
+.myprojects img{
+    height: 550px;
+    width: 750px;
+    margin-left: 100px;
+    margin-right: 80px;
+    align-self: center;
+}
+
+.personaldetail{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    font-size: 1.5rem;
+    align-self: center;
+}
+
+.personaldetail h1{
+    display: block;
+    margin-left: 100px;
+    margin-right: 200px;
+    align-self: center;
+}
+
+
+.personaldetail h4{
+    display: block;
+    margin-left: 100px;
+    align-self: center;
+}
+
